@@ -1,4 +1,4 @@
-# google-places-api-java-android-library
+# google-places-api-java-library
 google places api by wikiroutes
 
 simple library
